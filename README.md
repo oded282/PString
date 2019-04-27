@@ -17,7 +17,7 @@ indexes into the first PString. Then prints the first PString after the change.
 opt 3:	swaps upper case with lower case and the opposite direction as well for all letters in each PString (e.g. 'A' wiil become 'a' and 'a' will become
 'A'). Then prints both after the changes.
 
-opt 4: asks for two indexes, one for each PString, then prints the (lexigographical)
+opt 4: asks for two indexes, one for each PString, then prints the (lexicographical)
 comparison of both chars represented by the indexes.
 
 In any other case invalid message will be printed to screen.

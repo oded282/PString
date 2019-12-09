@@ -21,3 +21,5 @@ opt 4: asks for two indexes, one for each PString, then prints the (lexicographi
 comparison of both chars represented by the indexes.
 
 In any other case invalid message will be printed to screen.
+
+Changed!
